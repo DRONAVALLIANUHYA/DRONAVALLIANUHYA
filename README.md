@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dronavallianuhya](https://github.com/dronavallianuhya)
 
-- 💬 Ask me about **Python, AI/ML, Generative AI & Web Development**
+- 💬 Ask me about **Python, AI/ML, Generative AI & Agentic AI**
 
 - 📫 How to reach me **dronavallianuhya@gmail.com**
 
