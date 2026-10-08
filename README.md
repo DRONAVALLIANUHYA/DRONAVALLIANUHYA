@@ -6,7 +6,9 @@
 
 <img align="right" alt="coding" width="40%" src="https://camo.githubusercontent.com/396deae72bcb2ee884a7bda8fd8fe783e67870b17697b2a9496a032a0f191985/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dronavallianuhya&label=Profile%20views&color=0e75b6&style=flat" alt="dronavallianuhya" /> </p>
+<p align="left">
+  <img src="https://views.igorkowalczyk.dev/api/badge/dronavallianuhya?color=blue&label=Profile+Views" alt="Profile Views" />
+</p>
 
 - 🌱 I’m currently learning **Generative AI, Agentic AI, LangGraph & Japanese 🇯🇵**
 
