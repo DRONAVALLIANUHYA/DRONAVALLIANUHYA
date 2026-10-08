@@ -10,9 +10,11 @@
   <img src="https://views.igorkowalczyk.dev/api/badge/dronavallianuhya?color=blue&label=Profile+Views" alt="Profile Views" />
 </p>
 
-- 🌱 I’m currently learning **Generative AI, Agentic AI, LangGraph & Japanese 🇯🇵**
+- 🌱 I’m currently learning
+   **Generative AI, Agentic AI, LangGraph & Japanese 🇯🇵**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dronavallianuhya](https://github.com/dronavallianuhya)
+- 👨‍💻 All of my projects are available at
+  [https://github.com/dronavallianuhya](https://github.com/dronavallianuhya)
 
 - 💬 Ask me about **Python, AI/ML, Generative AI & Agentic AI**
 
