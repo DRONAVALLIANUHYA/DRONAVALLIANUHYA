@@ -1,4 +1,4 @@
-
+![logo](https://github.com/DRONAVALLIANUHYA/DRONAVALLIANUHYA/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Dronavalli Anuhya</h1>
 <h3 align="center">AI & Data Science Student | Japanese Language Learner 🇯🇵</h3>
 
