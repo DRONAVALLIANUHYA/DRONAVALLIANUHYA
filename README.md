@@ -1,6 +1,6 @@
 ![logo](https://github.com/DRONAVALLIANUHYA/DRONAVALLIANUHYA/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Dronavalli Anuhya</h1>
-<h3 align="center">AI & Data Science Student | Japanese Language Learner 🇯🇵</h3>
+<h3 align="center">Generative AI & Agentic AI | Japanese Language Learner 🇯🇵</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/396deae72bcb2ee884a7bda8fd8fe783e67870b17697b2a9496a032a0f191985/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://github.com/DRONAVALLIANUHYA/resume](https://github.com/DRONAVALLIANUHYA/resume)
 
-- ⚡ Fun fact **I can switch between code and Japanese 😄**
+- ⚡ Fun fact: **I can switch between code and Japanese 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
